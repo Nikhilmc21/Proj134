@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#btn_str,#no_obj
+{
+font-size: 18px;
+}
+canvas{
+    border:2px ridge black;
+    border-radius: 20px;
+}
